@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="peacock">#EE355854</color>
+    <color name="colorPrimaryDark">#6DFBFFFF</color>
+    <color name="colorAccent">#F83E7C40</color>
+    <color name="colorPrimary">#3B8375</color>
+    <color name="ash">#FC9FA8A7</color>
+    <color name="green">#BB627E</color>
+    <color name="dark">#FD4C5050</color>
+</resources>
